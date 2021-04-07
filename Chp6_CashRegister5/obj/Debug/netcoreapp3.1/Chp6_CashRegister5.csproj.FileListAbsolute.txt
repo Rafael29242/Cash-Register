@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.deps.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.runtimeconfig.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\bin\Debug\netcoreapp3.1\Chp6_CashRegister5.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Chp6_CashRegister5\Chp6_CashRegister5\obj\Debug\netcoreapp3.1\Chp6_CashRegister5.genruntimeconfig.cache
